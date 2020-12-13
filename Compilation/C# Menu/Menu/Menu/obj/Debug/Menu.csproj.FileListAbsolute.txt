@@ -1,0 +1,20 @@
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.frmCMenu.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\bin\Debug\Menu.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\bin\Debug\Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\bin\Debug\Menu.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\C# Menu\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\bin\Debug\Menu.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\bin\Debug\Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\bin\Debug\Menu.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.frmCMenu.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\C# Menu\Menu\Menu\obj\Debug\Menu.pdb

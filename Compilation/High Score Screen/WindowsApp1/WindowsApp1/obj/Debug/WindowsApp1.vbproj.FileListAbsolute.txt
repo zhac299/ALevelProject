@@ -1,0 +1,35 @@
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\High Score Screen\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

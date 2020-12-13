@@ -1,0 +1,4 @@
+In my Evaluation and Testing, add that I changed my code from using an array which increases everytime space is pressed to a limit so the program runs more smoothly with little to no lag or slowing down at all.
+
+Use this Link for a more detailed expression on What I changed
+https://www.youtube.com/watch?v=ISk9uE66xH0&list=PLzr5fRV1AGV9LLYRCQPJzVfrpm5ehudjH&index=30

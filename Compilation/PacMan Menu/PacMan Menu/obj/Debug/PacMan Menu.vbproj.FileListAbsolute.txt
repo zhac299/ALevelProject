@@ -1,0 +1,28 @@
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Form1.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Form2.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbproj.GenerateResource.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbprojResolveAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbprojAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbproj.CoreCompileInputs.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\bin\Debug\PacMan Menu.xml
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbprojAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Form1.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Form2.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Form3.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan_Menu.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbproj.GenerateResource.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.vbproj.CoreCompileInputs.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.xml
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\PacMan Menu\PacMan Menu\obj\Debug\PacMan Menu.pdb

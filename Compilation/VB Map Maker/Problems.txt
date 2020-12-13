@@ -1,0 +1,11 @@
+Errors:
+
+Need More Tiles From The Left Side:
+Left Curve Final Joint to Main Program
+Bump on the Left Side
+
+All The Curves and Bumps from the Right Side Need to Be Turned into Tiles
+
+Need Vertical Boxes in the Centre of the Bump
+
+Might Have to Increase the Size of the Working Area

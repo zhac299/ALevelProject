@@ -1,0 +1,37 @@
+E:\Test\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+E:\Test\Test\obj\Debug\Test.Resources.resources
+E:\Test\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+E:\Test\Test\obj\Debug\Test.Form1.resources
+E:\Test\Test\bin\Debug\Test.exe.config
+E:\Test\Test\bin\Debug\Test.exe
+E:\Test\Test\bin\Debug\Test.pdb
+E:\Test\Test\bin\Debug\Test.xml
+E:\Test\Test\obj\Debug\Test.exe
+E:\Test\Test\obj\Debug\Test.xml
+E:\Test\Test\obj\Debug\Test.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\bin\Debug\Test.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\bin\Debug\Test.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\bin\Debug\Test.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\bin\Debug\Test.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.Form1.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map with Back Buffer\Test\obj\Debug\Test.GFX.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\bin\Debug\Test.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\bin\Debug\Test.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\bin\Debug\Test.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\bin\Debug\Test.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.Form1.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.GFX.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.exe
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.xml
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.Form3.resources
+E:\College Subjects\Computer Science\Computer Science NEA\My Games\VB Map Maker\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache

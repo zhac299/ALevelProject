@@ -1,0 +1,28 @@
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.exe.config
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.exe
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.pdb
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.xml
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.vbprojAssemblyReference.cache
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.frmGame.resources
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.Resources.resources
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.vbproj.GenerateResource.cache
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.vbproj.CoreCompileInputs.cache
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.exe
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.xml
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.pdb
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.frmMenu.resources
+C:\Users\nadia\Documents\Visual Studio 2017\Projects\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.frmScoreMenu.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.exe.config
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.pdb
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\bin\Debug\Bling Bling Boy.xml
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.vbprojAssemblyReference.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.frmGame.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.frmMenu.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.frmScoreMenu.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling_Bling_Boy.Resources.resources
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.vbproj.GenerateResource.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.vbproj.CoreCompileInputs.cache
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.exe
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.xml
+E:\College Subjects\Computer Science\Computer Science NEA\FINAL\Bling Bling Boy\Bling Bling Boy\Bling Bling Boy\obj\Debug\Bling Bling Boy.pdb
