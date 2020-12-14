@@ -9,3 +9,6 @@ Games:
   - Bling Bling Boy (original idea)
   
 This project was made using C# (Unity) and VB.NET
+
+Video of Project:
+https://www.youtube.com/watch?v=cpXzxkwo9RE&ab_channel=HassanMirza
